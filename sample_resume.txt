@@ -1,0 +1,23 @@
+RAHUL SHARMA
+B.Tech Information Technology Student
+
+SUMMARY
+Final-year Information Technology student interested in Artificial Intelligence,
+Machine Learning and software development. Strong problem solving skills with
+hands-on Python projects.
+
+SKILLS
+Python, C++, SQL, Pandas, NumPy, Scikit-learn, Machine Learning, NLP,
+Streamlit, Git, GitHub, REST API, Data Structures, Algorithms.
+
+PROJECTS
+AI Study Assistant
+- Built a Python application for helping students organize and analyze study content.
+- Used NLP concepts and machine learning libraries.
+
+Customer Sentiment Analyzer
+- Processed product reviews using TF-IDF and classification.
+- Created a Streamlit dashboard for visualization.
+
+EDUCATION
+B.Tech Information Technology

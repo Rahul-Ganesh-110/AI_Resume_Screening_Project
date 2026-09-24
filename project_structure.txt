@@ -1,0 +1,11 @@
+PROJECT STRUCTURE
+
+AI_Resume_Screening_Project/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── sample_resume.txt
+├── sample_job.txt
+├── PROJECT_REPORT.md
+└── VIVA_QUESTIONS.md
